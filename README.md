@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GeorgeSot71
+- 👀 I’m interested in everything software related
+- 🌱 I’m currently studying Electrical Engineering and Computer Engineering (National Technical University of Athens)
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: gsotiropoulos@msi.gr
